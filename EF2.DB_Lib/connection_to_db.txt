@@ -1,0 +1,2 @@
+﻿Server=(localdb)\MSSQLLocalDB;Database=helloappdb;Integrated S
+ecurity=true;
