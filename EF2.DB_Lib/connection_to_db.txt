@@ -1,2 +1,1 @@
-﻿Server=(localdb)\MSSQLLocalDB;Database=helloappdb;Integrated S
-ecurity=true;
+﻿Server=(localdb)\MSSQLLocalDB;Database=helloappdb;Integrated Security=true;
